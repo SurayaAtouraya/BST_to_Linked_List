@@ -1,6 +1,6 @@
 A program that once compiled creates an executable, bst. bst takes as input first the number of integers and then the maximum value of an int plus one. With this input, an array is generated from the input given for the number of elements and their range. A Binary Search Tree is then created from the generated array. The BST is then converted to a linked list and that linked list is then reversed. As output, the array, the BST that is searched and printed in increasing order, the linked list in increasing order, and the reverse linked list in decreasing order.
     
-#Sample run:
+Sample run:
     
     ./bst
     
